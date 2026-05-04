@@ -1,4 +1,3 @@
-import { useState } from "react"; 
 
 export default function GeneralInfo({ data, setData}) {
 
@@ -23,7 +22,7 @@ export default function GeneralInfo({ data, setData}) {
             />
 
             <input 
-                type="text" 
+                type="email" 
                 name="email"
                 value={data.email}
                 placeholder="Your Email"
