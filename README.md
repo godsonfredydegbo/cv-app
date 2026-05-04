@@ -32,17 +32,18 @@ This project focuses on mastering core REACT concepts such as state management, 
 ---
 
 ## Project Structure
-
-src
-│   ├── App.jsx
-│   ├── components
-│   │   ├── CVPreview.jsx
-│   │   ├── Education.jsx
-│   │   ├── Experience.jsx
-│   │   └── GeneralInfo.jsx
-│   ├── index.css
-│   └── main.jsx
-└── vite.config.js
+```
+    src
+    │   ├── App.jsx
+    │   ├── components
+    │   │   ├── CVPreview.jsx
+    │   │   ├── Education.jsx
+    │   │   ├── Experience.jsx
+    │   │   └── GeneralInfo.jsx
+    │   ├── index.css
+    │   └── main.jsx
+    └── vite.config.js
+```
 
 ---
 
